@@ -199,7 +199,7 @@ NS_ASSUME_NONNULL_END
 三
 解释了这么多文档上的内容，下面说展示下效果
 
-![最终效果1]http://www.bourbonz.cn/wp-content/uploads/2016/05/emitter-result.gif)
+![最终效果1](http://www.bourbonz.cn/wp-content/uploads/2016/05/emitter-result.gif)
 ![最终效果2](http://www.bourbonz.cn/wp-content/uploads/2016/05/emitter-result-2.gif)
 
 四
