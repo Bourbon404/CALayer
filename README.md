@@ -7,3 +7,5 @@
 `CAReplicatorLayer`   复制图层
 
 `CAShapeLayer`  形状图层
+
+`CATiledLayer` 分片图层
