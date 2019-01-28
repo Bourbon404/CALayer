@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9F57318221894A8F0045E55C /* ObjCTmp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ObjCTmp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F57318221894A8F0045E55C /* CATiledLayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CATiledLayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F57318521894A8F0045E55C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		9F57318621894A8F0045E55C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		9F57318821894A8F0045E55C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		9F57317921894A8F0045E55C = {
 			isa = PBXGroup;
 			children = (
-				9F57318421894A8F0045E55C /* ObjCTmp */,
+				9F57318421894A8F0045E55C /* CATiledLayer */,
 				9F57318321894A8F0045E55C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -60,12 +60,12 @@
 		9F57318321894A8F0045E55C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9F57318221894A8F0045E55C /* ObjCTmp.app */,
+				9F57318221894A8F0045E55C /* CATiledLayer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9F57318421894A8F0045E55C /* ObjCTmp */ = {
+		9F57318421894A8F0045E55C /* CATiledLayer */ = {
 			isa = PBXGroup;
 			children = (
 				9F5731A121894AED0045E55C /* tmp.jpg */,
@@ -84,15 +84,15 @@
 				9F57319321894A910045E55C /* Info.plist */,
 				9F57319421894A910045E55C /* main.m */,
 			);
-			path = ObjCTmp;
+			path = CATiledLayer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9F57318121894A8F0045E55C /* ObjCTmp */ = {
+		9F57318121894A8F0045E55C /* CATiledLayer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9F57319821894A910045E55C /* Build configuration list for PBXNativeTarget "ObjCTmp" */;
+			buildConfigurationList = 9F57319821894A910045E55C /* Build configuration list for PBXNativeTarget "CATiledLayer" */;
 			buildPhases = (
 				9F57317E21894A8F0045E55C /* Sources */,
 				9F57317F21894A8F0045E55C /* Frameworks */,
@@ -102,9 +102,9 @@
 			);
 			dependencies = (
 			);
-			name = ObjCTmp;
+			name = CATiledLayer;
 			productName = ObjCTmp;
-			productReference = 9F57318221894A8F0045E55C /* ObjCTmp.app */;
+			productReference = 9F57318221894A8F0045E55C /* CATiledLayer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -121,7 +121,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9F57317D21894A8F0045E55C /* Build configuration list for PBXProject "ObjCTmp" */;
+			buildConfigurationList = 9F57317D21894A8F0045E55C /* Build configuration list for PBXProject "CATiledLayer" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -134,7 +134,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9F57318121894A8F0045E55C /* ObjCTmp */,
+				9F57318121894A8F0045E55C /* CATiledLayer */,
 			);
 		};
 /* End PBXProject section */
@@ -307,12 +307,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KGJ4XQW272;
-				INFOPLIST_FILE = ObjCTmp/Info.plist;
+				INFOPLIST_FILE = CATiledLayer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bourbonz.ObjCTmp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bourbonz.CATiledLayer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -324,12 +324,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KGJ4XQW272;
-				INFOPLIST_FILE = ObjCTmp/Info.plist;
+				INFOPLIST_FILE = CATiledLayer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bourbonz.ObjCTmp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bourbonz.CATiledLayer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -338,7 +338,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9F57317D21894A8F0045E55C /* Build configuration list for PBXProject "ObjCTmp" */ = {
+		9F57317D21894A8F0045E55C /* Build configuration list for PBXProject "CATiledLayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9F57319621894A910045E55C /* Debug */,
@@ -347,7 +347,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9F57319821894A910045E55C /* Build configuration list for PBXNativeTarget "ObjCTmp" */ = {
+		9F57319821894A910045E55C /* Build configuration list for PBXNativeTarget "CATiledLayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9F57319921894A910045E55C /* Debug */,
