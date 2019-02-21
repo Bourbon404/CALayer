@@ -19,3 +19,6 @@
 `CATiledLayer` 分片图层
 
 ![分片图层](https://raw.githubusercontent.com/Bourbon404/CALayer/master/CATiledLayer/CATiledLayer.gif)
+
+`CATextLayer` 文字图层
+![文字图层](https://raw.githubusercontent.com/Bourbon404/CALayer/master/CATextLayer/CATextLayer.png)
