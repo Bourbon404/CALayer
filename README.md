@@ -22,3 +22,6 @@
 
 `CATextLayer` 文字图层
 ![文字图层](https://raw.githubusercontent.com/Bourbon404/CALayer/master/CATextLayer/CATextLayer.png)
+
+`CAScrollLayer` 文字图层
+![文字图层](https://raw.githubusercontent.com/Bourbon404/CALayer/master/CAScrollLayer/CAScrollLayer.gif)
